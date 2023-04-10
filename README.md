@@ -18,7 +18,7 @@
 </summary>
 <div>
     <div>
-        <h3 align="center">Frontend Technologies</h3>
+        <h3>Frontend Technologies</h3>
         <div align="center">
                 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -39,7 +39,7 @@
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
                     width="40" height="40"/>
         </div>
-        <h3 align="center">Backend Technologies</h3>
+        <h3>Backend Technologies</h3>
         <div align="center">
             <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
             <img alt="fastapi" src="assets/technologies/backend/fastapi-1.svg" width="45" height="45"/>
@@ -50,7 +50,7 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
         </div>
-        <h3 align="center">Other Technologies</h3>
+        <h3>Other Technologies</h3>
         <div align="center">
             <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>        
