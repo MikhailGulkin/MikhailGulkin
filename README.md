@@ -5,7 +5,7 @@
 <br>
 
 <img width="100%" src="assets/30272055.gif" alt="sakura tree"/>
-<h2 align="center">I'm Web Developer from Moscow<br></h2>
+<h2 align="center">I'm Web Developer from Moscow.</h2>
 
 
 <details open>
@@ -27,7 +27,10 @@
 <details open>
 
 <summary>
-<h2>Activity Stats</h2>
+<div style="display: flex">
+    <h2 style="padding-right: 10px">Activity Stats </h2>
+    <img alt="funny guy" width="45" src="https://media0.giphy.com/media/MzwF1cJAidbtKxoGnh/giphy.gif">  
+</div>
 </summary>
 
 <div>
