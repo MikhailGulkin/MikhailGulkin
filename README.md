@@ -47,7 +47,7 @@ Header
                 <img src="assets/technologies/frontend/css3_icon.svg" alt="css3"
                     width="40" height="40"/>
         </div>
-        <h3 align="center">$\color{rgb(162, 53, 124))}{\textsf{Backend Technologies}}$</h3>
+        <h3 align="center">$\color{rgb(162, 53, 124)}{\textsf{Backend Technologies}}$</h3>
         <br>
         <div align="center">
             <img src="assets/technologies/backend/python-original.svg" alt="python" width="40" height="40"/>
