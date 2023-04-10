@@ -11,7 +11,10 @@
 <details open>
 
 <summary>
-<h2>My Github Stats </h2>
+    <h2>
+    My Github Stats 
+    <img alt="funny-guy-1" width="45" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTk5NWNkYzYzMmY1ZDFkM2RmYzc1ODk0ODBlYjM2OTE5YTA2MWVlMCZjdD1z/tnUQxOQtYhus0nSulI/giphy.gif">    
+    </h2>
 </summary>
 
 <div>
@@ -29,7 +32,7 @@
 <summary>
     <h2 style="padding-right: 10px">
         Activity Stats 
-        <img alt="funny guy" width="45" src="https://media0.giphy.com/media/MzwF1cJAidbtKxoGnh/giphy.gif">  
+        <img alt="funny-guy-2" width="45" src="https://media0.giphy.com/media/MzwF1cJAidbtKxoGnh/giphy.gif">  
     </h2>
 </summary>
 
