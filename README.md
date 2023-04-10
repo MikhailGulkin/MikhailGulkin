@@ -13,3 +13,5 @@
 </div>
 
 <hr>
+
+<img alt="Snake repo" src="https://github.com/MihailGulkin/MihailGulkin/blob/output/snake.svg">
