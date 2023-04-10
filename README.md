@@ -28,45 +28,45 @@ Header
         <h3 align="center">Frontend Technologies</h3>
         <br>
         <div align="center">
-                <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+                <img src="assets/technologies/frontend/figma_icon.svg" alt="figma" width="40" height="40"/> 
+                <img src="assets/technologies/frontend/bootstrap_icon.svg"
                 alt="bootstrap" width="40" height="40"/> 
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+                <img src="assets/technologies/frontend/html5_icon.svg"
                 alt="html5" width="40" height="40"/>
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+                <img src="assets/technologies/frontend/react_icon.svg"
                 alt="react" width="40" height="40"/> 
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"
+                <img src="assets/technologies/frontend/redux_icon.svg" alt="redux"
                 width="40" height="40"/>
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+                <img src="assets/technologies/frontend/javascript_original.svg"
                 alt="javascript" width="40" height="40"/> 
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+                <img src="assets/technologies/frontend/typescript_icon.svg"
                 alt="typescript" width="40" height="40"/> 
-               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
+               <img src="assets/technologies/frontend/sass_icon.svg" alt="sass"
                 width="40" height="40"/>
-                <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
+                <img src="assets/technologies/frontend/tailwindcss_icon.svg" alt="tailwind" width="40" height="40"/>
+                <img src="assets/technologies/frontend/css3_icon.svg" alt="css3"
                     width="40" height="40"/>
         </div>
         <h3 align="center">Backend Technologies</h3>
         <br>
         <div align="center">
-            <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
+            <img src="assets/technologies/backend/python-original.svg" alt="python" width="40" height="40"/>
+            <img src="assets/technologies/backend/django.svg" alt="django" width="40" height="40"/> 
             <img alt="fastapi" src="assets/technologies/backend/fastapi-1.svg" width="45" height="45"/>
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>   
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-            <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>        
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+            <img src="assets/technologies/backend/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>   
+            <img src="assets/technologies/backend/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+            <img src="assets/technologies/backend/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
+            <img src="assets/technologies/backend/nginx-original.svg" alt="nginx" width="40" height="40"/>        
+            <img src="assets/technologies/backend/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
         </div>
         <h3 align="center">Other Technologies</h3>
         <br>
         <div align="center">
             <img src="assets/technologies/other/bash.svg" alt="bash" width="40" height="40"/>
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>        
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>   
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-            <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+            <img src="assets/technologies/other/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>        
+            <img src="assets/technologies/other/linux-original.svg" alt="linux" width="40" height="40"/>   
+            <img src="assets/technologies/other/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+            <img src="assets/technologies/other/git-scm-icon.svg" alt="git" width="40" height="40"/>
         </div>
     </div>
 </div>
