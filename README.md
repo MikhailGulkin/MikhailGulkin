@@ -2,12 +2,14 @@
     Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </h2>
 
-<img width="100%" src="assets/30272055.gif" alt="sakura tree"/>
-<h2 align="center">I'm Web Developer from Moscow</h2>
-
 <br>
 
+<img width="100%" src="assets/30272055.gif" alt="sakura tree"/>
+<h2 align="center">I'm Web Developer from Moscow<br></h2>
+
+
 <details open>
+
 <summary>
 <h2>My Github Stats </h2>
 </summary>
@@ -23,9 +25,11 @@
 </details>
 
 <details open>
+
 <summary>
 <h2>Activity Stats</h2>
 </summary>
+
 <div>
     <img alt="Snake repo" src="https://github.com/MihailGulkin/MihailGulkin/blob/output/snake.svg"/>
     <img alt="activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=MihailGulkin&theme=dracula"/>
