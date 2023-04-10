@@ -8,7 +8,7 @@ Header
 
 <br>
 
-<img width="100%" src="assets/common/anime_blood.gif" alt="home gif"/>
+<img width="100%" src="assets/common/anime_blood_70.gif" alt="home gif"/>
 <h2 align="center">I'm Web Developer from Moscow.</h2>
 
 <div>
