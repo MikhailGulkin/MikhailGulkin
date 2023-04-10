@@ -78,7 +78,7 @@ Header
 
 <summary>
     <h2>
-    My Github Stats 
+    $\color{rgb(252,65,141)}{\textsf{My Github Stats}}$
     <img alt="funny-guy-1" width="45" src="assets/common/funny_guy_1.gif">    
     </h2>
 </summary>
@@ -100,8 +100,8 @@ Header
 
 <summary>
     <h2>
-        Activity Stats 
-        <img alt="funny-guy-2" width="45" src="https://media0.giphy.com/media/MzwF1cJAidbtKxoGnh/giphy.gif">  
+        $\color{rgb(175, 29, 85)}{\textsf{ Activity Stats }}$
+        <img alt="funny-guy-2" width="45" src="assets/common/funny_guy_2.gif">  
     </h2>
 </summary>
 
