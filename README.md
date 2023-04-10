@@ -18,6 +18,5 @@
     <div align="center">
         <img alt="codewars" src="https://github.r2v.ch/codewars?user=MihailGulkin&stroke=%23BB432C">
         <img alt="leetcode" src="https://leetcode-stats-six.vercel.app/api?username=MihailGulkin">
-        <img alt="stackoverflow" src="https://github-readme-stackoverflow.vercel.app/?userID=17513928">
     </div>    
 </div>
