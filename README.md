@@ -13,7 +13,7 @@ Header
 <br>
 
 <img width="100%" src="assets/common/anime_blood.gif" alt="home gif"/>
-<h2 align="center"> $\color{rgb(78,12,40)}{\textsf{I'm Web Developer from Moscow.}}$</h2>
+<h2 align="center"> $\color{rgb(184,17,78)}{\textsf{I'm Web Developer from Moscow.}}$</h2>
 
 <div>
 <details open>
