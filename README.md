@@ -5,7 +5,7 @@ Header
 
 
 <h1 align="center">
-    $\color{Magenta}{\textsf{Welcome to my Github Profile}}$
+    $\color{OrangeRed}{\textsf{Welcome to my Github Profile}}$
     <img src="assets/common/hey.gif" width="25px"> 
 </h1>
 
