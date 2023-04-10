@@ -82,7 +82,7 @@ Header
     <img alt="funny-guy-1" width="45" src="assets/common/funny_guy_1.gif">    
     </h2>
 </summary>
-
+<h2></h2>
 <div>
     <div align="center">
         <img alt="language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikhailGulkin&langs_count=6&hide=Shell&layout=compact&exclude_repo=DjangoCinema&theme=radical" width="360.6" height="170" />
