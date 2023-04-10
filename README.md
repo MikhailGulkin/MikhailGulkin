@@ -82,9 +82,9 @@ Header
     <div align="center">
         <img alt="language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MihailGulkin&langs_count=6&hide=Shell&layout=compact&exclude_repo=DjangoCinema&theme=radical" width="360.6" height="170" />
         <img alt="my github stat" src="https://github-readme-stats.vercel.app/api?username=MihailGulkin&show_icons=true&theme=radical" height="170" />
-        <br>        
+        <br><br>        
         <img alt="mystreak" src="https://github-readme-streak-stats.herokuapp.com/?user=MihailGulkin&theme=radical" />
-        <br>        
+        <br><br>    
         <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=MihailGulkin&theme=dracula&rank=-?">    
     </div>    
 </div>
