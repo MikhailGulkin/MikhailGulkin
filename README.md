@@ -13,10 +13,3 @@
 </div>
 
 <hr>
-<div>
-    <h2 align="center">Media</h2>
-    <div align="center">
-        <img alt="codewars" src="https://github.r2v.ch/codewars?user=MihailGulkin&stroke=%23BB432C">
-        <img alt="leetcode" src="https://leetcode-stats-six.vercel.app/api?username=MihailGulkin">
-    </div>    
-</div>
