@@ -19,13 +19,13 @@ Header
 <details open>
 <summary>
 <h2>
-        $\color{rgb(186, 79, 166)}{\textsf{Tools and Technology}}$
+        $\color{rgb(212, 78, 189)}{\textsf{Tools and Technology}}$
         <img alt="computer" width="35" src="assets/common/funny_computer.gif">
 </h2>
 </summary>
 <div>
     <div>
-        <h3 align="center">Frontend Technologies</h3>
+        <h3 align="center">$\color{rgb(185, 70, 166)}{\textsf{Frontend Technologies}}$</h3>
         <br>
         <div align="center">
                 <img src="assets/technologies/frontend/figma_icon.svg" alt="figma" width="40" height="40"/> 
@@ -47,7 +47,7 @@ Header
                 <img src="assets/technologies/frontend/css3_icon.svg" alt="css3"
                     width="40" height="40"/>
         </div>
-        <h3 align="center">Backend Technologies</h3>
+        <h3 align="center">$\color{rgb(144, 54, 131)}{\textsf{Backend Technologies}}$</h3>
         <br>
         <div align="center">
             <img src="assets/technologies/backend/python-original.svg" alt="python" width="40" height="40"/>
@@ -59,7 +59,7 @@ Header
             <img src="assets/technologies/backend/nginx-original.svg" alt="nginx" width="40" height="40"/>        
             <img src="assets/technologies/backend/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
         </div>
-        <h3 align="center">Other Technologies</h3>
+        <h3 align="center">$\color{rgb(142, 34, 128)}{\textsf{Other Technologies}}$</h3>
         <br>
         <div align="center">
             <img src="assets/technologies/other/bash.svg" alt="bash" width="40" height="40"/>
