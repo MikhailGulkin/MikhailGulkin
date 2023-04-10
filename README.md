@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-<img src="assets/30272055.gif" alt="sakura tree"/>
+<img width="100%" src="assets/30272055.gif" alt="sakura tree"/>

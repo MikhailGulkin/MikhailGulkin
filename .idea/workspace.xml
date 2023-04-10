@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0bd11e6-70a2-4bc2-bc72-38b5ff712d5e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/30272055.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sakura_tree.gif" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681085109672</updated>
-      <workItem from="1681085110746" duration="1126000" />
+      <workItem from="1681085110746" duration="1229000" />
     </task>
     <servers />
   </component>
