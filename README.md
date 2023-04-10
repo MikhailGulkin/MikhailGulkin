@@ -18,7 +18,7 @@
 <hr>
 
 <div>
-    <h2>Activity Stats</h2>
+    <h2 align="center" style="{display: inline}">Activity Stats</h2>
     <img alt="Snake repo" src="https://github.com/MihailGulkin/MihailGulkin/blob/output/snake.svg">
     <img alt="activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=MihailGulkin&theme=dracula">
 </div>
