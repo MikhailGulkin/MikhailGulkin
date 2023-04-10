@@ -8,7 +8,7 @@ Header
 
 <br>
 
-<img width="100%" src="assets/common/sakura_anime.gif" alt="sakura tree"/>
+<img width="100%" src="assets/common/anime_blood.gif" alt="home gif"/>
 <h2 align="center">I'm Web Developer from Moscow.</h2>
 
 <div>
