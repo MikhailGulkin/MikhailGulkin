@@ -7,6 +7,17 @@
 <hr>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MihailGulkin&langs_count=6&hide=Shell&layout=compact&exclude_repo=DjangoCinema&theme=radical" width="360.6" height="170" />
-    <img src="https://github-readme-stats.vercel.app/api?username=MihailGulkin&show_icons=true&theme=radical" height="170" />
+    <img alt="language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MihailGulkin&langs_count=6&hide=Shell&layout=compact&exclude_repo=DjangoCinema&theme=radical" width="360.6" height="170" />
+    <img alt="my github stat" src="https://github-readme-stats.vercel.app/api?username=MihailGulkin&show_icons=true&theme=radical" height="170" />
+    <img alt="mystreak" src="https://github-readme-streak-stats.herokuapp.com/?user=MihailGulkin&theme=radical" />
+</div>
+
+<hr>
+<div>
+    <h2 align="center">Media</h2>
+    <div align="center">
+        <img alt="codewars" src="https://github.r2v.ch/codewars?user=MihailGulkin&stroke=%23BB432C">
+        <img alt="leetcode" src="https://leetcode-stats-six.vercel.app/api?username=MihailGulkin">
+        <img alt="stackoverflow" src="https://github-readme-stackoverflow.vercel.app/?userID=17513928">
+    </div>    
 </div>

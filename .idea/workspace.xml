@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b0bd11e6-70a2-4bc2-bc72-38b5ff712d5e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/giphy.gif" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +91,8 @@
       <option name="presentableId" value="Default" />
       <updated>1681085109672</updated>
       <workItem from="1681085110746" duration="3097000" />
-      <workItem from="1681113618986" duration="2628000" />
+      <workItem from="1681113618986" duration="3655000" />
+      <workItem from="1681143283675" duration="2667000" />
     </task>
     <servers />
   </component>
