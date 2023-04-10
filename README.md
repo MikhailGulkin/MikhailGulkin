@@ -5,9 +5,11 @@
 <img width="100%" src="assets/30272055.gif" alt="sakura tree"/>
 <h2 align="center">I'm Web Developer from Moscow</h2>
 
+<br>
+
 <details open>
 <summary>
-<h2 align="left">My Github Stats </h2>
+<h2>My Github Stats </h2>
 </summary>
 
 <div>
@@ -22,7 +24,7 @@
 
 <details open>
 <summary>
-<h2 align="center">Activity Stats</h2>
+<h2>Activity Stats</h2>
 </summary>
 <div>
     <img alt="Snake repo" src="https://github.com/MihailGulkin/MihailGulkin/blob/output/snake.svg"/>
