@@ -5,7 +5,7 @@ Header
 
 
 <h1 align="center">
-    $\color{OrangeRed}{\textsf{Welcome to my Github Profile}}$
+    $\color{rgb(191,18,79)}{\textsf{Welcome to my Github Profile}}$
     <img alt="hey" src="assets/common/hey.gif" width="25px"> 
 </h1>
 
@@ -13,7 +13,7 @@ Header
 <br>
 
 <img width="100%" src="assets/common/anime_blood.gif" alt="home gif"/>
-<h2 align="center">I'm Web Developer from Moscow.</h2>
+<h2 align="center"> $\color{rgb(78,12,40)}{\textsf{I'm Web Developer from Moscow.}}$</h2>
 
 <div>
 <details open>
