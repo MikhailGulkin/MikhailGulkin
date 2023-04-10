@@ -3,9 +3,9 @@
 </h2>
 
 <img width="100%" src="assets/30272055.gif" alt="sakura tree"/>
-<h3 align="center">I'm Web Developer from Moscow</h3>
+<h2 align="center">I'm Web Developer from Moscow</h2>
 
-<details>
+<details open>
 <summary>
 <h2 align="left">My Github Stats </h2>
 </summary>
@@ -20,7 +20,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary>
 <h2 align="center">Activity Stats</h2>
 </summary>
