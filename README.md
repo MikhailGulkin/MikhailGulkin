@@ -8,7 +8,7 @@
 <details>
 <summary>
 <h2 align="left">My Github Stats </h2>
-<summary>
+</summary>
 
 <div>
     <div align="center">
@@ -18,13 +18,16 @@
     </div>    
 </div>
 
+</details>
+
 <details>
-
+<summary>
+<h2 align="center">Activity Stats</h2>
+</summary>
 <div>
-    <h2 align="center">Activity Stats</h2>
-    <img alt="Snake repo" src="https://github.com/MihailGulkin/MihailGulkin/blob/output/snake.svg">
-    <img alt="activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=MihailGulkin&theme=dracula">
+    <img alt="Snake repo" src="https://github.com/MihailGulkin/MihailGulkin/blob/output/snake.svg"/>
+    <img alt="activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=MihailGulkin&theme=dracula"/>
 </div>
-
+</details>
 
 
