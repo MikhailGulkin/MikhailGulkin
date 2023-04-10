@@ -1,8 +1,9 @@
 <!---
 Header
 -->
-<h1 align="center" style="color: #bf124f">
-    Welcome to my Github Profile
+- 
+<h1 align="center">
+    <span style="color:#bf124f;"> Welcome to my Github Profile </span> 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 </h1>
 
@@ -72,7 +73,7 @@ Header
 <details open>
 
 <summary>
-    <h2 style="color: #bf124f;">
+    <h2>
     My Github Stats 
     <img alt="funny-guy-1" width="45" src="assets/common/funny_guy_1.gif">    
     </h2>
