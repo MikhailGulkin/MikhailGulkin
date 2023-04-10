@@ -13,7 +13,7 @@
 <summary>
     <h2>
     My Github Stats 
-    <img alt="funny-guy-1" width="45" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWFiNTJjMTRlMDFkMzg2N2RkYmNhY2MwMTM3ZjE5MTdkYmE4Y2FhZCZjdD1z/tnUQxOQtYhus0nSulI/giphy.gif">    
+    <img alt="funny-guy-1" width="45" src="assets/funny_guy_1.gif">    
     </h2>
 </summary>
 
