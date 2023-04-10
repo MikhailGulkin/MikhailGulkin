@@ -27,10 +27,10 @@
 <details open>
 
 <summary>
-<div style="display: flex">
-    <h2 style="padding-right: 10px">Activity Stats </h2>
-    <img alt="funny guy" width="45" src="https://media0.giphy.com/media/MzwF1cJAidbtKxoGnh/giphy.gif">  
-</div>
+    <h2 style="padding-right: 10px">
+        Activity Stats 
+        <img alt="funny guy" width="45" src="https://media0.giphy.com/media/MzwF1cJAidbtKxoGnh/giphy.gif">  
+    </h2>
 </summary>
 
 <div>
