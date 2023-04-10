@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0bd11e6-70a2-4bc2-bc72-38b5ff712d5e" name="Changes" comment="" />
+    <list default="true" id="b0bd11e6-70a2-4bc2-bc72-38b5ff712d5e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.github/workflows/snake.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,7 +92,7 @@
       <updated>1681085109672</updated>
       <workItem from="1681085110746" duration="3097000" />
       <workItem from="1681113618986" duration="3655000" />
-      <workItem from="1681143283675" duration="3365000" />
+      <workItem from="1681143283675" duration="3742000" />
     </task>
     <servers />
   </component>
