@@ -19,7 +19,8 @@ Header
 <details open>
 <summary>
 <h2>
-        Tools and Technology <img alt="computer" width="35" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDA4MTE5ZTIyZDFlNzg5OTViMmY5NGUxYzNiNDYwOTMxODBmZmRiYSZjdD1z/vjFe8bffNrPlGWZfOJ/giphy.gif">
+        $\color{rgb(186, 79, 166)}{\textsf{Tools and Technology}}$
+        <img alt="computer" width="35" src="assets/common/funny_computer.gif">
 </h2>
 </summary>
 <div>
