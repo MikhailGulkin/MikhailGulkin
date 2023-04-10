@@ -1,3 +1,4 @@
+# Header
 <h2>
     Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </h2>
@@ -7,6 +8,13 @@
 <img width="100%" src="assets/30272055.gif" alt="sakura tree"/>
 <h2 align="center">I'm Web Developer from Moscow.</h2>
 
+<div>
+    <div style="display: flex;">
+        <h2 style="padding-right: 5px; margin: 0 0">Tools and Technology</h2>
+        <img alt="computer" width="35" height="35" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDA4MTE5ZTIyZDFlNzg5OTViMmY5NGUxYzNiNDYwOTMxODBmZmRiYSZjdD1z/vjFe8bffNrPlGWZfOJ/giphy.gif">
+    </div>
+
+</div>
 
 <details open>
 
@@ -39,6 +47,7 @@
 <div>
     <img alt="Snake repo" src="https://github.com/MihailGulkin/MihailGulkin/blob/output/snake.svg"/>
     <br>    
+    <br>
     <img alt="activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=MihailGulkin&theme=dracula"/>
 </div>
 </details>
