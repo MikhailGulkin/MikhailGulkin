@@ -6,7 +6,7 @@
 
 <br>
 
-<img width="100%" src="assets/30272055.gif" alt="sakura tree"/>
+<img width="100%" src="assets/common/30272055.gif" alt="sakura tree"/>
 <h2 align="center">I'm Web Developer from Moscow.</h2>
 
 <div>
@@ -18,8 +18,8 @@
 </summary>
 <div>
     <div>
-        <h3>Frontend technologies</h3>
-        <div>
+        <h3>Frontend Technologies</h3>
+        <div align="center">
                 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
                 alt="bootstrap" width="40" height="40"/> 
@@ -36,6 +36,28 @@
                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
                 width="40" height="40"/>
                 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
+                    width="40" height="40"/>
+        </div>
+        <h3>Backend Technologies</h3>
+        <div align="center">
+            <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
+            <img alt="fastapi" src="assets/technologies/backend/fastapi-1.svg" width="45" height="45"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>   
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+            <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>        
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+        </div>
+        <h3>Other Technologies</h3>
+        <div align="center">
+            <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>        
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>   
+            <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+            <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
         </div>
     </div>
 </div>
@@ -48,7 +70,7 @@
 <summary>
     <h2>
     My Github Stats 
-    <img alt="funny-guy-1" width="45" src="assets/funny_guy_1.gif">    
+    <img alt="funny-guy-1" width="45" src="assets/common/funny_guy_1.gif">    
     </h2>
 </summary>
 
