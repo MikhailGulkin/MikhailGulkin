@@ -15,3 +15,5 @@
 <hr>
 
 <img alt="Snake repo" src="https://github.com/MihailGulkin/MihailGulkin/blob/output/snake.svg">
+
+<img alt="activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=MihailGulkin&theme=dracula">
