@@ -47,7 +47,7 @@ Header
                 <img src="assets/technologies/frontend/css3_icon.svg" alt="css3"
                     width="40" height="40"/>
         </div>
-        <h3 align="center">$\color{rgb(144, 54, 131)}{\textsf{Backend Technologies}}$</h3>
+        <h3 align="center">$\color{rgb(162, 53, 124))}{\textsf{Backend Technologies}}$</h3>
         <br>
         <div align="center">
             <img src="assets/technologies/backend/python-original.svg" alt="python" width="40" height="40"/>
@@ -59,7 +59,7 @@ Header
             <img src="assets/technologies/backend/nginx-original.svg" alt="nginx" width="40" height="40"/>        
             <img src="assets/technologies/backend/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
         </div>
-        <h3 align="center">$\color{rgb(142, 34, 128)}{\textsf{Other Technologies}}$</h3>
+        <h3 align="center">$\color{rgb(117, 44, 154)}{\textsf{Other Technologies}}$</h3>
         <br>
         <div align="center">
             <img src="assets/technologies/other/bash.svg" alt="bash" width="40" height="40"/>
