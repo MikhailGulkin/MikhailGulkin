@@ -86,6 +86,10 @@ Header
 <h2>fsdf</h2>
 </div>
 <div>
+
+</div>
+
+</details>
     <div align="center">
         <img alt="language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikhailGulkin&langs_count=6&hide=Shell&layout=compact&exclude_repo=DjangoCinema&theme=radical" width="360.6" height="170" />
         <img alt="my github stat" src="https://github-readme-stats.vercel.app/api?username=MikhailGulkin&show_icons=true&theme=radical" height="170" />
@@ -94,10 +98,6 @@ Header
         <br><br>    
         <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=MikhailGulkin&theme=dracula&rank=-?">    
     </div>    
-</div>
-
-</details>
-
 <details open>
 
 <summary>
