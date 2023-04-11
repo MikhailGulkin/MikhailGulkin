@@ -85,8 +85,8 @@
             <img alt="my github stat" src="https://github-readme-stats.vercel.app/api?username=MikhailGulkin&show_icons=true&theme=radical" height="170" />
             <br><br>        
             <img alt="mystreak" src="https://github-readme-streak-stats.herokuapp.com/?user=MikhailGulkin&theme=radical" />
-            <br><br>    
-            <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=MikhailGulkin&theme=dracula&rank=-?,-C">    
+            <br><br>        
+            <img align="center" style="text-align: center" alt="trophy" src="https://github-profile-trophy.vercel.app/?username=MikhailGulkin&theme=dracula&rank=-?,-C">    
         </div>   
 </div>
 
