@@ -6,7 +6,7 @@
         $\color{rgb(191,18,79)}{\textsf{Welcome to my Github Profile}}$
         <img alt="hey" src="assets/common/hey.gif" width="25px"> 
     </h1>
-    <br><br>
+    <br>
     <img width="100%" src="assets/common/anime_blood_70.gif" alt="home gif"/>
     <h2 align="center"> $\color{rgb(184,17,78)}{\textsf{I'm Web Developer from Moscow.}}$</h2>
 
