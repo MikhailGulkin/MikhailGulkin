@@ -12,7 +12,7 @@
 
 </div>
 
-<br><br>
+<br>
 
 [//]: # (Body)
 
@@ -72,7 +72,7 @@
     </div>
 </div>
 
-<br><br>
+<br>
 
 [//]: # (Second Part)
 <div>
@@ -89,6 +89,8 @@
             <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=MikhailGulkin&theme=dracula&rank=-?">    
         </div>   
 </div>
+
+<br>
 
 [//]: # (Third Part)
 <div>
