@@ -86,7 +86,7 @@
             <br><br>        
             <img alt="mystreak" src="https://github-readme-streak-stats.herokuapp.com/?user=MikhailGulkin&theme=radical" />
             <br><br>        
-            <img align="center" style="text-align: center" alt="trophy" src="https://github-profile-trophy.vercel.app/?username=MikhailGulkin&theme=dracula&rank=-?,-C">    
+            <img align="center" style="text-align: center" alt="trophy" src="https://github-profile-trophy.vercel.app/?username=MikhailGulkin&theme=dracula&row=2&column=3">    
         </div>   
 </div>
 
