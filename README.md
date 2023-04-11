@@ -16,13 +16,11 @@ Header
 <h2 align="center"> $\color{rgb(184,17,78)}{\textsf{I'm Web Developer from Moscow.}}$</h2>
 
 <div>
-<details open>
-<summary>
 <h2>
         $\color{rgb(212, 78, 189)}{\textsf{Tools and Technology}}$
         <img alt="computer" width="35" src="assets/common/funny_computer.gif">
 </h2>
-</summary>
+
 <div>
     <div>
         <h3 align="center">$\color{rgb(185, 70, 166)}{\textsf{Frontend Technologies}}$</h3>
@@ -70,8 +68,6 @@ Header
         </div>
     </div>
 </div>
-</details>
-
 </div>
 
 <h2>
