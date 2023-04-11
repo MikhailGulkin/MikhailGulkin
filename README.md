@@ -82,15 +82,17 @@ Header
     <img alt="funny-guy-1" width="45" src="assets/common/funny_guy_1.gif">    
     </h2>
 </summary>
-<h2></h2>
+<div>
+<h2>fsdf</h2>
+</div>
 <div>
     <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikhailGulkin&langs_count=6&hide=Shell&layout=compact&exclude_repo=DjangoCinema&theme=radical" width="360.6" height="170" />
+        <img alt="language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikhailGulkin&langs_count=6&hide=Shell&layout=compact&exclude_repo=DjangoCinema&theme=radical" width="360.6" height="170" />
         <img alt="my github stat" src="https://github-readme-stats.vercel.app/api?username=MikhailGulkin&show_icons=true&theme=radical" height="170" />
         <br><br>        
-        <img  src="https://github-readme-streak-stats.herokuapp.com/?user=MikhailGulkin&theme=radical" />
+        <img alt="mystreak" src="https://github-readme-streak-stats.herokuapp.com/?user=MikhailGulkin&theme=radical" />
         <br><br>    
-        <img  src="https://github-profile-trophy.vercel.app/?username=MikhailGulkin&theme=dracula&rank=-?">    
+        <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=MikhailGulkin&theme=dracula&rank=-?">    
     </div>    
 </div>
 
@@ -106,10 +108,10 @@ Header
 </summary>
 
 <div>
-    <img src="https://github.com/MikhailGulkin/MikhailGulkin/blob/output/snake.svg"/>
+    <img alt="Snake repo" src="https://github.com/MikhailGulkin/MikhailGulkin/blob/output/snake.svg"/>
     <br>    
     <br>
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MikhailGulkin&theme=dracula"/>
+    <img alt="activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=MikhailGulkin&theme=dracula"/>
 </div>
 </details>
 
