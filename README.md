@@ -7,7 +7,7 @@
         <img alt="hey" src="assets/common/hey.gif" width="25px"> 
     </h1>
     <br><br>
-    <img width="100%" src="assets/common/anime_blood_70.gif" alt="home gif"/>
+    <img width="100%" src="assets/common/sakura_anime.gif" alt="home gif"/>
     <h2 align="center"> $\color{rgb(184,17,78)}{\textsf{I'm Web Developer from Moscow.}}$</h2>
 
 </div>
