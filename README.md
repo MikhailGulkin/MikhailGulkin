@@ -74,45 +74,28 @@ Header
 
 </div>
 
-[//]: # (<details open>)
-
-[//]: # ()
-[//]: # (<summary>)
-
-[//]: # ()
-[//]: # (</summary>)
-
-[//]: # ()
-[//]: # ()
-[//]: # ()
-[//]: # (</details>)
-  <h2>
+<h2>
     $\color{rgb(252,65,141)}{\textsf{My Github Stats}}$
     <img alt="funny-guy-1" width="45" src="assets/common/funny_guy_1.gif">    
-    </h2>
-    <div align="center">
+</h2>
+<div align="center">
         <img alt="language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikhailGulkin&langs_count=6&hide=Shell&layout=compact&exclude_repo=DjangoCinema&theme=radical" width="360.6" height="170" />
         <img alt="my github stat" src="https://github-readme-stats.vercel.app/api?username=MikhailGulkin&show_icons=true&theme=radical" height="170" />
         <br><br>        
         <img alt="mystreak" src="https://github-readme-streak-stats.herokuapp.com/?user=MikhailGulkin&theme=radical" />
         <br><br>    
         <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=MikhailGulkin&theme=dracula&rank=-?">    
-    </div>    
-<details open>
+    </div>   
 
-<summary>
-    <h2>
-        $\color{rgb(175, 29, 85)}{\textsf{ Activity Stats }}$
-        <img alt="funny-guy-2" width="45" src="assets/common/funny_guy_2.gif">  
-    </h2>
-</summary>
-
+<h2>
+    $\color{rgb(175, 29, 85)}{\textsf{ Activity Stats }}$
+    <img alt="funny-guy-2" width="45" src="assets/common/funny_guy_2.gif">  
+</h2>
 <div>
     <img alt="Snake repo" src="https://github.com/MikhailGulkin/MikhailGulkin/blob/output/snake.svg"/>
     <br>    
     <br>
     <img alt="activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=MikhailGulkin&theme=dracula"/>
 </div>
-</details>
 
 
