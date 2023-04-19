@@ -49,7 +49,7 @@
             </div>
             <h3 align="center">$\color{rgb(162, 53, 124)}{\textsf{Backend Technologies}}$</h3>
             <br>
-            <div align="center" width="400">
+            <div align="center">
                 <img src="assets/technologies/backend/python-original.svg" alt="python" width="40" height="40"/>
                 <img src="assets/technologies/backend/django.svg" alt="django" width="40" height="40"/> 
                 <img alt="fastapi" src="assets/technologies/backend/fastapi-1.svg" width="45" height="45"/>
