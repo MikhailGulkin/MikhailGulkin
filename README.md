@@ -49,20 +49,13 @@
             </div>
             <h3 align="center">$\color{rgb(162, 53, 124)}{\textsf{Backend Technologies}}$</h3>
             <br>
-            <div align="center">
+            <div align="center" width="400">
                 <img src="assets/technologies/backend/python-original.svg" alt="python" width="40" height="40"/>
                 <img src="assets/technologies/backend/django.svg" alt="django" width="40" height="40"/> 
                 <img alt="fastapi" src="assets/technologies/backend/fastapi-1.svg" width="45" height="45"/>
                 <img src="assets/technologies/backend/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>   
                 <img src="assets/technologies/backend/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
                 <img src="assets/technologies/backend/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
-                <img src="assets/technologies/backend/nginx-original.svg" alt="nginx" width="40" height="40"/>        
-                <img src="assets/technologies/backend/nginx-original.svg" alt="nginx" width="40" height="40"/>        
-                <img src="assets/technologies/backend/nginx-original.svg" alt="nginx" width="40" height="40"/>        
-                <img src="assets/technologies/backend/nginx-original.svg" alt="nginx" width="40" height="40"/>        
-                <img src="assets/technologies/backend/nginx-original.svg" alt="nginx" width="40" height="40"/>        
-                <img src="assets/technologies/backend/nginx-original.svg" alt="nginx" width="40" height="40"/>        
-                <img src="assets/technologies/backend/nginx-original.svg" alt="nginx" width="40" height="40"/>        
                 <img src="assets/technologies/backend/nginx-original.svg" alt="nginx" width="40" height="40"/>        
                 <img src="assets/technologies/backend/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
                 <img src="assets/technologies/backend/sanic.svg" alt="sanic" width="40" height="40">
