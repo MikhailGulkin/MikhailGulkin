@@ -81,8 +81,8 @@
         <img alt="funny-guy-1" width="45" src="assets/common/funny_guy_1.gif">    
     </h2>
     <div align="center">
-            <img alt="language" src="https://github-readme-stats-six-chi-56.vercel.app/api/top-langs/?username=MikhailGulkin&langs_count=6&hide=Shell&layout=compact&exclude_repo=DjangoCinema,DjangoShop&theme=radical" width="360.6" height="170" />
-            <img alt="my github stat" src="https://github-readme-stats-six-chi-56.vercel.app/api?username=MikhailGulkin&show_icons=true&theme=radical" height="170" />
+            <img alt="language" src="https://github-readme-stats-evip01htp-mikhailgulkin.vercel.app/api/top-langs/?username=MikhailGulkin&langs_count=6&hide=Shell&layout=compact&exclude_repo=DjangoCinema,DjangoShop&theme=radical" width="360.6" height="170" />
+            <img alt="my github stat" src="https://github-readme-stats-evip01htp-mikhailgulkin.vercel.app/api?username=MikhailGulkin&show_icons=true&theme=radical" height="170" />
             <br><br>        
             <img alt="mystreak" src="https://github-readme-streak-stats.herokuapp.com/?user=MikhailGulkin&theme=radical" />
             <br><br>        
