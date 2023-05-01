@@ -4,6 +4,7 @@
 <div>
     <h1 align="center">
         $\color{rgb(191,18,79)}{\textsf{Welcome to my Github Profile}}$
+        $\color{rgb(220, 35, 83)}{\textsf{Github Profile}}$
         <img alt="hey" src="assets/common/hey.gif" width="25px"> 
     </h1>
     <br>
