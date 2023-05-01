@@ -57,7 +57,7 @@
                 <img src="assets/technologies/backend/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
                 <img src="assets/technologies/backend/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
                 <img src="assets/technologies/backend/nginx-original.svg" alt="nginx" width="40" height="40"/>
-                <img src="assets/technologies/backend/koa-js.svg" alt="koa" width="40" height="40">
+                <img src="assets/technologies/backend/koa-js.svg" alt="koa" width="70" height="40">
                 <img src="assets/technologies/backend/express.svg" alt="express" width="40" height="40">
                 <img src="assets/technologies/backend/fastify.svg" alt="fastify" width="40" height="40">
                 <img src="assets/technologies/backend/nginx-original.svg" alt="node-js" width="40" height="40">
