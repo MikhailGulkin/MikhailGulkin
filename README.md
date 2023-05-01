@@ -8,7 +8,7 @@
     </h1>
     <br>
     <img width="100%" src="assets/common/anime_blood_hd_70.gif" alt="home gif"/>
-    <h2 align="center"> $\color{rgb(184,17,78)}{\textsf{I'm Web Developer from Moscow.}}$</h2>
+    <h2 align="center"> $\color{rgb(184,17,78)}{\textsf{I'm Web Developer from $\color{rgb(200,17,78)}{\textsf{Moscow}}$.}}$</h2>
 
 </div>
 
@@ -107,7 +107,6 @@
     <div>
         <img alt="Snake repo" src="https://github.com/MikhailGulkin/MikhailGulkin/blob/output/snake.svg"/>
         <br>    
-        <br>
         <img alt="activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=MikhailGulkin&theme=dracula"/>
     </div>
 </div>
