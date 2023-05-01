@@ -10,7 +10,7 @@
     <img width="100%" src="assets/common/anime_blood_hd_70.gif" alt="home gif"/>
     <h2 align="center"> 
         $\color{rgb(184,17,78)}{\textsf{I'm Web Developer from }}$
-        $\color{rgb(199, 18, 85)}{\textsf{Moscow}}$
+        $\color{rgb(218, 15, 90)}{\textsf{Moscow}}$
         $\color{rgb(184,17,78)}{\textsf{.}}$
     </h2>
 
