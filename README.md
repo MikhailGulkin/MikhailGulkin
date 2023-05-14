@@ -73,7 +73,7 @@
             <h3 align="center">$\color{rgb(117, 44, 154)}{\textsf{Other Technologies}}$</h3>
             <br>
             <div align="center">
-                <img src="assets/technologies/other/logo-rabbitmq.svg" alt="rabbit-mq" width="40" height="40">
+                <img src="assets/technologies/other/logo-rabbitmq.svg" alt="rabbit-mq" width="80" height="40">
                 <img src="assets/technologies/other/bash.svg" alt="bash" width="40" height="40"/>
                 <img src="assets/technologies/other/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>        
                 <img src="assets/technologies/other/linux-original.svg" alt="linux" width="40" height="40"/>   
