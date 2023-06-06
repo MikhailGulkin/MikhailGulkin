@@ -113,6 +113,6 @@
     <div>
         <img alt="Snake repo" src="https://github.com/MikhailGulkin/MikhailGulkin/blob/output/snake.svg"/>
         <br>    
-        <img alt="activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=MikhailGulkin&theme=dracula"/>
+        <img alt="activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=MikhailGulkin&theme=dracula"/>
     </div>
 </div>
