@@ -64,7 +64,6 @@
                 <img src="assets/technologies/backend/express.svg" alt="express" width="40" height="40">
                 <img src="assets/technologies/backend/fastify.svg" alt="fastify" width="40" height="40">
                 <img src="assets/technologies/other/logo-rabbitmq.svg" alt="rabbit-mq" width="80" height="40">
-                <img src="assets/technologies/backend/nginx-original.svg" alt="node-js" width="40" height="40">
                 <img src="assets/technologies/backend/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
                 <img src="assets/technologies/backend/sanic.svg" alt="sanic" width="40" height="40">
                 <img src="assets/technologies/backend/blacksheep.svg" alt="black-sheep" width="40" height="40">
