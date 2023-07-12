@@ -5,7 +5,7 @@
     <h1 align="center">
         $\color{rgb(191,18,79)}{\textsf{Welcome to my}}$
         $\color{rgb(220, 35, 83)}{\textsf{Github Profile}}$
-        <img alt="hey" src="assets/common/hey.gif" width="25px"> 
+        <img alt="hey" src="[assets/common/hey.gif](https://github.com/MikhailGulkin/MikhailGulkin/blob/main/assets/common/hey.gif)" width="25px"> 
     </h1>
     <br>
     <img width="100%" src="assets/common/anime_blood_hd_70.gif" alt="home gif"/>
