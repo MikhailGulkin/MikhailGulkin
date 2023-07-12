@@ -25,7 +25,7 @@
 <div>
     <h2>
             $\color{rgb(212, 78, 189)}{\textsf{Tools and Technology}}$
-            <img alt="computer" width="35" src="assets/common/funny_computer.gif">
+            <img alt="computer" width="35" src="https://github.com/MikhailGulkin/MikhailGulkin/blob/main/assets/common/funny_computer.gif">
     </h2>
     <div>
         <div>
@@ -89,7 +89,7 @@
 <div>
     <h2>
         $\color{rgb(252,65,141)}{\textsf{My Github Stats}}$
-        <img alt="funny-guy-1" width="45" src="assets/common/funny_guy_1.gif">    
+        <img alt="funny-guy-1" width="45" src="https://github.com/MikhailGulkin/MikhailGulkin/blob/main/assets/common/funny_guy_1.gif">    
     </h2>
     <div align="center">
             <img alt="language" src="https://github-readme-stats-mikhailgulkin.vercel.app/api/top-langs/?username=MikhailGulkin&langs_count=6&hide=Shell&layout=compact&exclude_repo=DjangoCinema,DjangoShop,Snake,Front_Projects&theme=radical" width="360.6" height="170" />
@@ -107,7 +107,7 @@
 <div>
     <h2>
         $\color{rgb(175, 29, 85)}{\textsf{ Activity Stats }}$
-        <img alt="funny-guy-2" width="45" src="assets/common/funny_guy_2.gif">  
+        <img alt="funny-guy-2" width="45" src="https://github.com/MikhailGulkin/MikhailGulkin/blob/main/assets/common/funny_guy_2.gif">  
     </h2>
     <div>
         <img alt="Snake repo" src="https://github.com/MikhailGulkin/MikhailGulkin/blob/output/snake.svg"/>
