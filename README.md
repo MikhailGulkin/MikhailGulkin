@@ -110,8 +110,6 @@
         <img alt="funny-guy-2" width="45" src="https://github.com/MikhailGulkin/MikhailGulkin/blob/main/assets/common/funny_guy_2.gif">  
     </h2>
     <div>
-        <img alt="Snake repo" src="https://github.com/MikhailGulkin/MikhailGulkin/blob/output/snake.svg"/>
-        <br>    
         <img alt="activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=MikhailGulkin&theme=dracula"/>
     </div>
 </div>
