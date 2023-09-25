@@ -96,8 +96,8 @@
             <img alt="my github stat" src="https://github-readme-stats-mikhailgulkin.vercel.app/api?username=MikhailGulkin&show_icons=true&theme=radical" height="170" />
             <br><br>        
             <img alt="mystreak" src="https://github-readme-streak-stats.herokuapp.com/?user=MikhailGulkin&theme=radical" />
-            <br><br>        
-            <img align="center" style="text-align: center" alt="trophy" src="https://github-profile-trophy.vercel.app/?username=MikhailGulkin&theme=dracula&row=2&column=3">    
+<!--             <br><br>         -->
+<!--             <img align="center" style="text-align: center" alt="trophy" src="https://github-profile-trophy.vercel.app/?username=MikhailGulkin&theme=dracula&row=2&column=3">     -->
         </div>   
 </div>
 
