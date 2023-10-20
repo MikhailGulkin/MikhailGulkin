@@ -3,15 +3,13 @@
 [//]: # (Header)
 <div>
     <h1 align="center">
-        $\color{red}{\textsf{Welcome to my}}$
-        $\color{rgb(220, 35, 83)}{\textsf{Github Profile}}$
+        Welcome to my Github Profile
         <img alt="hey" src="https://github.com/MikhailGulkin/MikhailGulkin/blob/main/assets/common/hey.gif" width="25px"> 
     </h1>
     <br>
     <img width="100%" src="assets/common/anime_blood_hd_70.gif" alt="home gif"/>
     <h2 align="center"> 
-        $\color{rgb(184,17,78)}{\textsf{I'm Web Developer from}}$
-        $\color{rgb(220, 35, 83)}{\textsf{Moscow}}$
+        I'm Web Developer from Moscow
     </h2>
 
 </div>
@@ -24,12 +22,12 @@
 
 <div>
     <h2>
-            $\color{rgb(212, 78, 189)}{\textsf{Tools and Technology}}$
+            Tools and Technology
             <img alt="computer" width="35" src="https://github.com/MikhailGulkin/MikhailGulkin/blob/main/assets/common/funny_computer.gif">
     </h2>
     <div>
         <div>
-            <h3 align="center">$\color{rgb(185, 70, 166)}{\textsf{Frontend Technologies}}$</h3>
+            <h3 align="center">Frontend Technologies
             <br>
             <div align="center">
                     <img src="assets/technologies/frontend/figma_icon.svg" alt="figma" width="40" height="40"/> 
@@ -51,7 +49,7 @@
                     <img src="assets/technologies/frontend/css3_icon.svg" alt="css3"
                         width="40" height="40"/>
             </div>
-            <h3 align="center">$\color{rgb(162, 53, 124)}{\textsf{Backend Technologies}}$</h3>
+            <h3 align="center">Backend Technologies
             <br>
             <div align="center">
                 <img src="assets/technologies/backend/python-original.svg" alt="python" width="40" height="40"/>
@@ -70,7 +68,7 @@
                 <img src="assets/technologies/backend/aiohttp-plain.svg" alt="aiohttp" width="40" height="40">
                 <img src="assets/technologies/backend/SQLAlchemy.svg" alt="sqlalchemy" width="40" height="40">
             </div>
-            <h3 align="center">$\color{rgb(117, 44, 154)}{\textsf{Other Technologies}}$</h3>
+            <h3 align="center">Other Technologies
             <br>
             <div align="center">
                 <img src="assets/technologies/other/bash.svg" alt="bash" width="40" height="40"/>
@@ -88,7 +86,7 @@
 [//]: # (Second Part)
 <div>
     <h2>
-        $\color{rgb(252,65,141)}{\textsf{My Github Stats}}$
+        My Github Stats
         <img alt="funny-guy-1" width="45" src="https://github.com/MikhailGulkin/MikhailGulkin/blob/main/assets/common/funny_guy_1.gif">    
     </h2>
     <div align="center">
@@ -106,7 +104,7 @@
 [//]: # (Third Part)
 <div>
     <h2>
-        $\color{rgb(175, 29, 85)}{\textsf{ Activity Stats }}$
+        Activity Stats
         <img alt="funny-guy-2" width="45" src="https://github.com/MikhailGulkin/MikhailGulkin/blob/main/assets/common/funny_guy_2.gif">  
     </h2>
     <div>
