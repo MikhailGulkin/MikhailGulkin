@@ -3,7 +3,7 @@
 [//]: # (Header)
 <div>
     <h1 align="center">
-        $\color{rgb(191,18,79)}{\textsf{Welcome to my}}$
+        $\color{red}{\textsf{Welcome to my}}$
         $\color{rgb(220, 35, 83)}{\textsf{Github Profile}}$
         <img alt="hey" src="https://github.com/MikhailGulkin/MikhailGulkin/blob/main/assets/common/hey.gif" width="25px"> 
     </h1>
