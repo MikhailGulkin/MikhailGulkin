@@ -83,21 +83,21 @@
 
 <br>
 
-[//]: # (Second Part)
-<div>
-    <h2>
+<!-- [//]: # (Second Part) -->
+<!-- <div> -->
+<!--     <h2>
         My Github Stats
         <img alt="funny-guy-1" width="45" src="https://github.com/MikhailGulkin/MikhailGulkin/blob/main/assets/common/funny_guy_1.gif">    
-    </h2>
-    <div align="center">
+    </h2> -->
+<!--     <div align="center">
             <img alt="language" src="https://github-readme-stats-mikhailgulkin.vercel.app/api/top-langs/?username=MikhailGulkin&langs_count=6&hide=Shell&layout=compact&exclude_repo=DjangoCinema,DjangoShop,Snake,Front_Projects&theme=radical" width="360.6" height="170" />
             <img alt="my github stat" src="https://github-readme-stats-mikhailgulkin.vercel.app/api?username=MikhailGulkin&show_icons=true&theme=radical" height="170" />
             <br><br>        
             <img alt="mystreak" src="https://github-readme-streak-stats.herokuapp.com/?user=MikhailGulkin&theme=radical" />
 <!--             <br><br>         -->
 <!--             <img align="center" style="text-align: center" alt="trophy" src="https://github-profile-trophy.vercel.app/?username=MikhailGulkin&theme=dracula&row=2&column=3">     -->
-        </div>   
-</div>
+<!--         </div>    -->
+<!-- </div> -->
 
 <br>
 
